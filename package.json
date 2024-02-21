@@ -22,7 +22,7 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Zephyr-Jeon/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
